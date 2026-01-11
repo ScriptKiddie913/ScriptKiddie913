@@ -1,5 +1,60 @@
 # 💫 About Me:
-Passionate and skilled Bug Bounty Hunter with expertise in identifying, exploiting, and reporting security vulnerabilities across web applications and networks. Proficient in ethical hacking, penetration testing, and vulnerability assessment, leveraging tools like Burp Suite, Caido, Splunk, HexStrike, and OWASP methodologies. Experienced in working with major bug bounty platforms such as HackerOne, Bugcrowd, and ComOlho.<br><br>Key skills include:<br><br>i.) Web application security testing<br>ii.) Reconnaissance, enumeration, and OSINT techniques<br>iii.) Responsible disclosure and technical report writing<br>iv.) Knowledge of CVEs, OWASP Top 10, and MITRE ATT&CK framework<br><br>I am committed to strengthening cybersecurity through proactive threat hunting, responsible disclosure, and continuous learning in offensive security. I am dedicated and results-driven with a passion for cybersecurity, ethical hacking, and proactive vulnerability detection. Proven track record of identifying and reporting critical security flaws, contributing to stronger digital defenses for organizations worldwide. Constantly evolving with the latest security trends, attack vectors, and mitigation techniques to stay ahead of emerging threats. Seeking opportunities to apply my expertise in ethical hacking, penetration testing, and security research to help organizations strengthen their security posture. Ready to bring a proactive and analytical approach to cybersecurity challenges.<br><br>Cyber security researcher , hacking, into bug bounty, llm pentest, osint darkweb scrape
+Cybersecurity Researcher | Bug Bounty Hunter | Offensive Security & OSINT Specialist
+
+Passionate and results-driven Cybersecurity Researcher and Bug Bounty Hunter with deep expertise in offensive security, web application penetration testing, and advanced OSINT operations. Proven ability to identify, exploit, and responsibly disclose high-impact security vulnerabilities across complex web applications, APIs, cloud environments, and network infrastructures.
+
+Highly proficient in ethical hacking methodologies, combining manual exploitation techniques with automated tooling and AI-assisted analysis to uncover security flaws that traditional scanners miss. Actively engaged in real-world vulnerability research through major bug bounty platforms, freelance security assessments, CTF competitions, and independent security projects.
+
+Experienced in LLM-assisted pentesting, dark web intelligence gathering, and threat actor monitoring, with a strong focus on proactive threat hunting and intelligence-driven security research. Adept at translating technical findings into clear, actionable, and professional security reports aligned with industry standards.
+
+Driven by continuous learning, adversarial thinking, and real-world impact—constantly evolving alongside emerging attack vectors, zero-day exploitation trends, and modern defensive strategies.
+
+Core Expertise & Technical Competencies
+🔐 Offensive Security & Bug Bounty
+
+Web Application & API Security Testing
+
+Authentication & Authorization Bypass
+
+Business Logic Flaws & Access Control Issues
+
+OWASP Top 10 & OWASP API Top 10
+
+CVE Analysis & Exploit Research
+
+Responsible Disclosure & Coordinated Vulnerability Reporting
+
+🕵️ Reconnaissance, OSINT & Dark Web Intelligence
+
+Advanced Recon, Enumeration & Asset Discovery
+
+Username, Domain, IP & Infrastructure OSINT
+
+Dark Web & Underground Forum Monitoring
+
+Leak Analysis & Breach Intelligence Correlation
+
+Threat Actor & Campaign Tracking
+
+🧠 AI-Driven & Advanced Security Research
+
+LLM-assisted Pentesting & Security Automation
+
+Agentic AI for Threat Monitoring & Intelligence Correlation
+
+AI-based Data Structuring & Analysis
+
+Honeypot Deployment & Attack Pattern Analysis
+
+📊 Threat Intelligence & Blue Team Awareness
+
+MITRE ATT&CK Framework
+
+Threat Modeling & Adversary Emulation
+
+SIEM Analysis & Log Correlation
+
+Incident Detection & Threat Contextualization
 
 
 ## 🌐 Socials:
