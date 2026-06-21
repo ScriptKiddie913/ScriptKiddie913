@@ -1,5 +1,5 @@
-# 💫 About Me:
-Cybersecurity Researcher | Bug Bounty Hunter | Offensive Security & OSINT Specialist
+Cybersecurity Researcher & Offensive Security Specialist
+"Architecting defenses by thinking like the adversary"
 
 Passionate and results-driven Cybersecurity Researcher and Bug Bounty Hunter with deep expertise in offensive security, web application penetration testing, and advanced OSINT operations. Proven ability to identify, exploit, and responsibly disclose high-impact security vulnerabilities across complex web applications, APIs, cloud environments, and network infrastructures.
 
@@ -9,9 +9,8 @@ Experienced in LLM-assisted pentesting, dark web intelligence gathering, and thr
 
 Driven by continuous learning, adversarial thinking, and real-world impact—constantly evolving alongside emerging attack vectors, zero-day exploitation trends, and modern defensive strategies.
 
-Core Expertise & Technical Competencies
-🔐 Offensive Security & Bug Bounty
-
+🔥 Core Expertise
+🛡️ Offensive Security & Bug Bounty
 Web Application & API Security Testing
 
 Authentication & Authorization Bypass
@@ -25,7 +24,6 @@ CVE Analysis & Exploit Research
 Responsible Disclosure & Coordinated Vulnerability Reporting
 
 🕵️ Reconnaissance, OSINT & Dark Web Intelligence
-
 Advanced Recon, Enumeration & Asset Discovery
 
 Username, Domain, IP & Infrastructure OSINT
@@ -37,7 +35,6 @@ Leak Analysis & Breach Intelligence Correlation
 Threat Actor & Campaign Tracking
 
 🧠 AI-Driven & Advanced Security Research
-
 LLM-assisted Pentesting & Security Automation
 
 Agentic AI for Threat Monitoring & Intelligence Correlation
@@ -47,7 +44,6 @@ AI-based Data Structuring & Analysis
 Honeypot Deployment & Attack Pattern Analysis
 
 📊 Threat Intelligence & Blue Team Awareness
-
 MITRE ATT&CK Framework
 
 Threat Modeling & Adversary Emulation
@@ -56,25 +52,57 @@ SIEM Analysis & Log Correlation
 
 Incident Detection & Threat Contextualization
 
+🛠️ Technical Arsenal
+Programming & Scripting
+https://img.shields.io/badge/c-%252300599C.svg?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+https://img.shields.io/badge/bash_script-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
+https://img.shields.io/badge/php-%2523777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/disavowed913) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagnik-saha-7ba227237/) 
+Cloud & DevOps
+https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
+https://img.shields.io/badge/firebase-%2523039BE5.svg?style=for-the-badge&logo=firebase
+https://img.shields.io/badge/vercel-%2523000000.svg?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/netlify-%2523000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
+https://img.shields.io/badge/github%2520actions-%25232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+https://img.shields.io/badge/gitlab%2520CI-%2523181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ScriptKiddie913&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ScriptKiddie913&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptKiddie913&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Development & Infrastructure
+https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
+https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/apache-%2523D42029.svg?style=for-the-badge&logo=apache&logoColor=white
+https://img.shields.io/badge/nginx-%2523009639.svg?style=for-the-badge&logo=nginx&logoColor=white
+https://img.shields.io/badge/postgres-%2523316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+
+Security & OSINT Tools
+https://img.shields.io/badge/splunk-%2523000000.svg?style=for-the-badge&logo=splunk&logoColor=white
+https://img.shields.io/badge/tor-%25237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white
+https://img.shields.io/badge/wireguard-%252388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white
+https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
+https://img.shields.io/badge/openapiinitiative-%2523000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white
+
+📊 GitHub Analytics
+https://github-readme-stats.vercel.app/api?username=ScriptKiddie913&theme=dark&hide_border=false&include_all_commits=false&count_private=false
 
 
-
-### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+https://nirzak-streak-stats.vercel.app/?user=ScriptKiddie913&theme=dark&hide_border=false
 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptKiddie913&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 
----
-[![](https://visitcount.itsvg.in/api?id=ScriptKiddie913&icon=0&color=0)](https://visitcount.itsvg.in)
+📌 Security Philosophy
+"The only secure system is one that's powered off, but that's not why we're here."
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I believe in building resilient systems through adversarial thinking, continuous learning, and responsible disclosure. My mission is to make the digital world safer—one vulnerability at a time.
+
+🌐 Connect With Me
+https://img.shields.io/badge/Instagram-%2523E4405F.svg?logo=Instagram&logoColor=white
+https://img.shields.io/badge/LinkedIn-%25230077B5.svg?logo=linkedin&logoColor=white
+
+https://visitcount.itsvg.in/api?id=ScriptKiddie913&icon=0&color=0
+
+"Security is not a product, but a process." — Bruce Schneier
