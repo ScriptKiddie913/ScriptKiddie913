@@ -70,12 +70,70 @@ Driven by continuous learning, adversarial thinking, and real‑world impact—c
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### **Security & OSINT Tools**
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+---
+
+## 🔍 Security & OSINT Toolbox
+
+### 🌐 Reconnaissance & OSINT
+![Maltego](https://img.shields.io/badge/-Maltego-00C7B7?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/-Shodan-FF6B6B?style=for-the-badge)
+![Censys](https://img.shields.io/badge/-Censys-4D96FF?style=for-the-badge)
+![Recon-ng](https://img.shields.io/badge/-Recon--ng-181717?style=for-the-badge)
+![SpiderFoot](https://img.shields.io/badge/-SpiderFoot-FFD93D?style=for-the-badge)
+![theHarvester](https://img.shields.io/badge/-theHarvester-6BCB77?style=for-the-badge)
+![Sherlock](https://img.shields.io/badge/-Sherlock-9B59B6?style=for-the-badge)
+![Holehe](https://img.shields.io/badge/-Holehe-E74C3C?style=for-the-badge)
+![Photon](https://img.shields.io/badge/-Photon-1ABC9C?style=for-the-badge)
+![Dmitry](https://img.shields.io/badge/-Dmitry-2C3E50?style=for-the-badge)
+
+### 🎯 Web Application & API Testing
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000000?style=for-the-badge)
+![Nuclei](https://img.shields.io/badge/-Nuclei-00ADD8?style=for-the-badge)
+![FFUF](https://img.shields.io/badge/-FFUF-2C3E50?style=for-the-badge)
+![WPScan](https://img.shields.io/badge/-WPScan-0073AA?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/-Nikto-4A4A4A?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/-SQLmap-CC0000?style=for-the-badge)
+![Arjun](https://img.shields.io/badge/-Arjun-6C3483?style=for-the-badge)
+
+### 🌍 Network & Infrastructure
+![Nmap](https://img.shields.io/badge/-Nmap-0E7C7B?style=for-the-badge)
+![Masscan](https://img.shields.io/badge/-Masscan-2C3E50?style=for-the-badge)
+![RustScan](https://img.shields.io/badge/-RustScan-000000?style=for-the-badge)
+![Netcat](https://img.shields.io/badge/-Netcat-4D4D4D?style=for-the-badge)
+
+### ⚡ Exploitation & Post‑Exploitation
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596be?style=for-the-badge)
+![Empire](https://img.shields.io/badge/-Empire-3E3E3E?style=for-the-badge)
+![Covenant](https://img.shields.io/badge/-Covenant-FF4500?style=for-the-badge)
+![BeEF](https://img.shields.io/badge/-BeEF-800000?style=for-the-badge)
+
+### 🔑 Password Cracking & Fuzzing
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-3C3C3C?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/-Hashcat-1E1E1E?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/-Hydra-0A3D62?style=for-the-badge)
+![Medusa](https://img.shields.io/badge/-Medusa-8B0000?style=for-the-badge)
+
+### 📡 Wireless & IoT Security
+![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-2E8B57?style=for-the-badge)
+![Kismet](https://img.shields.io/badge/-Kismet-FF8C00?style=for-the-badge)
+![Wifite](https://img.shields.io/badge/-Wifite-4682B4?style=for-the-badge)
+
+### ☁️ Cloud & Container Security
+![ScoutSuite](https://img.shields.io/badge/-ScoutSuite-1E90FF?style=for-the-badge)
+![Prowler](https://img.shields.io/badge/-Prowler-FF6F00?style=for-the-badge)
+![Trivy](https://img.shields.io/badge/-Trivy-1920C4?style=for-the-badge)
+![CloudSploit](https://img.shields.io/badge/-CloudSploit-232F3E?style=for-the-badge)
+
+### 🕵️ Forensics & Traffic Analysis
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge)
+![tcpdump](https://img.shields.io/badge/-tcpdump-4D4D4D?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/-Autopsy-004B87?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/-Volatility-6A1B9A?style=for-the-badge)
+
+### 📝 Reporting & Collaboration
+![Dradis](https://img.shields.io/badge/-Dradis-3A3A3A?style=for-the-badge)
+![Faraday](https://img.shields.io/badge/-Faraday-007BFF?style=for-the-badge)
 
 ---
 
